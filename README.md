@@ -1,8 +1,9 @@
 ## Olá, seja bem vindo !
 <ul>
         <li>Acadêmico de Sistemas de Informação - UFC</li>
-        <li>Desenvolvedor Web</li>
+        <li>Desenvolvedor FullStack</li>
         <li>MERN/PERN Stack</li>
+        <li>.NET</li>
         <li>Técnico em Redes de Computadores</li>
         
 </ul>
